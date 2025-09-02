@@ -112,17 +112,19 @@ const projects = [
     tech: ["Next.js" , "TypeScript" , "Tailwind CSS" , "Material UI"],
    
   },
-  {
-    title: "Real Estate Website",
-    description: "Real estate platform with responsive UI supporting both Arabic and English languages.",
-    tech: ["Next.js", "Tailwind CSS" , "i18n" , "TypeScript"],
-    link: "https://tpg.vconnct.me",
-  },
+ 
   {
     title: "KAROOT Dashboard",
     description:
       "Interactive dashboard for managing orders, customers, and worker performance with real-time data visualization.",
     tech: ["Next.js" , "TypeScript" , "Tailwind CSS" , "Material UI"],
+  },
+  {
+    title: "Tawteen Website",
+    description:
+      "Investment-focused web applicationDeveloped a responsive and high-performance web platform aimed at facilitating investment opportunities",
+        link: "https://tawteen.tech",
+      tech: ["Next.js" , "TypeScript" , "Tailwind CSS" , "Redux toolkit" , "React Query"],
   },
 ]
 
@@ -203,7 +205,7 @@ export default function Portfolio() {
             <div className="flex flex-col sm:flex-row gap-4 justify-center ">
              <motion.a
              target="_blank"
-                href="/Ahmed Mohamed-Resume.pdf"
+                href="/Ahmed-Mohamed-Resume.pdf"
                 whileHover={{ scale: 1.1 }}
                 whileTap={{ scale: 0.95 }}
               >
