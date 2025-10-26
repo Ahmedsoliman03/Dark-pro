@@ -199,7 +199,7 @@ export default function Portfolio() {
                 className="bg-card/50 backdrop-blur-sm border border-border rounded-lg p-6 max-w-3xl mx-auto"
               >
                 <p className="text-lg text-muted-foreground mb-4">
-                  <span className="text-primary font-semibold">3+ Years Experience</span> in Frontend Development
+                  <span className="text-primary font-semibold">2+ Years Experience</span> in Frontend Development
                 </p>
                 <p className="text-base text-muted-foreground leading-relaxed">
                   Passionate Frontend Developer specializing in responsive web and dashboard design, ensuring seamless
