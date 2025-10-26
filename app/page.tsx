@@ -106,6 +106,14 @@ const projects = [
     link: "https://dashboard.vconnct.me",
   },
   {
+    title: "Inmate Communication System – Dubai Correctional Project",
+    description:
+      `Developed a dual-dashboard system (Admin & Visitor) to enable secure inmate–visitor communication. The
+Admin Dashboard manages users, sessions, and real-time updates via Supabase, while the Visitor Dashboard
+allows visitors to register, schedule, and track sessions through a responsive, intuitive interface.`,
+    tech: ["Next.js", "Material UI", "Tailwind CSS", "Supabase"],
+  },
+  {
     title: "Admin Dashboard",
     description:
       "Modern admin panel using Veuxy dashboard with data visualization, table filtering, and role-based UI features.",
